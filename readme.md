@@ -1,11 +1,6 @@
 <!--START_SECTION:header-->
 <div align="center">
   <p align="center">
-    <img 
-      alt="Bat Pass Generator Logo" 
-      src="https://raw.githubusercontent.com/tauamendonca/password-generator/refs/heads/main/github/badge.png" 
-      width="200px" 
-    />
     <h1>React Native - App de "Dog-Sinal"</h1>
   </p>
 </div>
@@ -38,12 +33,12 @@ Nesse projeto foi criado do zero um app com uma tela de home que ao toque de out
 ## Preview
 <center><img 
       alt="App screen with a cute dog and a button" 
-      src="" 
+      src="https://raw.githubusercontent.com/tauamendonca/challenge_form/refs/heads/main/github/preview1.jpg" 
       width="200px"
 /></center>
 <center><img 
       alt="App screen with a form and a title" 
-      src="" 
+      src="https://raw.githubusercontent.com/tauamendonca/challenge_form/refs/heads/main/github/preview2.jpg" 
       width="200px"
 /></center>
 
