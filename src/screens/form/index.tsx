@@ -3,8 +3,13 @@ import { styles } from './styles';
 import { Input } from '../../components/Input';
 import { useForm } from 'react-hook-form';
 import { useRef } from 'react';
+import { PressableButton } from '../../components/button';
 
-export function GuestForm() {
+function handleSubmit() {
+    console.log('Dados enviados');
+}
+ 
+export default function GuestForm() {
     const { control } = useForm();
 
     const lnkRef = useRef<TextInput>(null);
@@ -68,7 +73,7 @@ export function GuestForm() {
                 }}    
             />
 
-            <Button title='Enviar'/>
+            <PressableButton text='Enviar' onPress={() => handleSubmit()}/>
         </View>
         </KeyboardAvoidingView>
     )

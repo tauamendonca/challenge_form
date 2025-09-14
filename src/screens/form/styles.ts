@@ -5,6 +5,7 @@ export const styles = StyleSheet.create({
     width: '90%',
     flexDirection: 'column',
     alignSelf: 'center',
+    alignItems: 'center',
     backgroundColor: '#c5c5f5',
     elevation: 1,
     justifyContent: 'center',
@@ -13,7 +14,7 @@ export const styles = StyleSheet.create({
   },
   title: {
     fontSize: 24,
-    color: '#3f3f3f',
+    color: '#604099',
     fontWeight: 600,
     marginBottom: 24,
     alignSelf: 'center',

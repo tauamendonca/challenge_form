@@ -1,9 +1,7 @@
-import Home from "./src/screens/home";
-import { GuestForm } from "./src/screens/form";
+import { Routes } from './src/routes';
 
 export default function App() {
   return (
-      // <Home />
-      <GuestForm />
+    <Routes />    
   );
 }
