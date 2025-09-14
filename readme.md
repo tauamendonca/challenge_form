@@ -31,7 +31,7 @@ Conheça o <a href = "">projeto original</a>, o código que apresento aqui é um
 Nesse projeto foi criado do zero um app com uma tela de home que ao toque de outro botão te levará para uma tela de formulário. O projeto inicial tinha como tema Batman e a ideia era que o botão acionasse o bat sinal que te levaria ao formulário, olhe o preview para ver o que a batcaverna se tornou. Abaixo listo algumas das características desse desafio.
 
 ## Preview
-<center><img 
+<center><div><img 
       alt="App screen with a cute dog and a button" 
       src="https://raw.githubusercontent.com/tauamendonca/challenge_form/refs/heads/main/github/preview1.jpg" 
       width="200px"
@@ -40,7 +40,7 @@ Nesse projeto foi criado do zero um app com uma tela de home que ao toque de out
       alt="App screen with a form and a title" 
       src="https://raw.githubusercontent.com/tauamendonca/challenge_form/refs/heads/main/github/preview2.jpg" 
       width="200px"
-/></center>
+/></div></center>
 
 ## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
 
