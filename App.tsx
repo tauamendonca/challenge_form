@@ -1,20 +1,9 @@
-import { View } from "react-native";
-import { StyleSheet } from 'react-native';
 import Home from "./src/screens/home";
+import { GuestForm } from "./src/screens/form";
 
 export default function App() {
   return (
-    <View style = {styles.start}>
-      <Home />
-    </View>
+      // <Home />
+      <GuestForm />
   );
 }
-
-const styles = StyleSheet.create({
-  start: {
-    flex: 1,
-    backgroundColor: "#fff",
-    alignItems: "center",
-    justifyContent: "center",
-  },
-});
