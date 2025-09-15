@@ -18,7 +18,7 @@
       </tr>
        <tr>
     <td>
-Conheça o <a href = "">projeto original</a>, o código que apresento aqui é uma resposta ao projeto proposto pela DIO no bootcamp MeuTudo Mobile Developer. O projeto original tinha como tema Batman, mas convenhamos minha boxer é mais bonitinha que ele.<br>
+O código que apresento aqui foi feito do zero e é uma resposta ao projeto proposto pela DIO no bootcamp MeuTudo Mobile Developer. O conceito original proposto pelo professor tinha como tema Batman, mas decidi pela mudança do conceito por preferência.<br>
  </td>
       </tr>
 </thead>
